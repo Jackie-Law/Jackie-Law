@@ -1,6 +1,6 @@
 ### Hello World ! 👋
 ---
-<img align="right" src="./space.svg">
+<img align="right" src="./astro.svg" width="200px">
 
 ### About Me
 
