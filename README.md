@@ -4,15 +4,15 @@
 
 ### About Me
 
-- 🐟  Thinking about ...
+- 🐟  
 
-- ☀️  Thinking about ...
+- ☀️  
 
-- ✨  Thinking about ...
+- ✨  
 
-- 🎉  Thinking about ...
+- 🎉  
 
-- 😊  Thinking about ...
+- 😊  
 
 ---
 
